@@ -5,7 +5,7 @@ body{
 }
 
 .section_imgs {
-    background-image: url("../imgs/abstract-black-gray-grunge-texture-pattern-background.jpg");
+    background-image: url("./imgs/abstract-black-gray-grunge-texture-pattern-background.jpg");
     width:100vw;
     padding: 4rem 0;      
 }
